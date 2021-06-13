@@ -1,4 +1,4 @@
-**Fire base deploy : https://question-form-making.web.app/
+**Fire base deploy :https://question-form-making.firebaseapp.com/
 **
 Question Form Maker 
 
